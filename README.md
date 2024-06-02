@@ -6,7 +6,7 @@ tags:
   - flask
 ---
 
-# Ejemplo de Python Flask
+# Ejemplo de Python Flask - Railway
 
 Esta es una aplicación de [Flask](https://flask.palletsprojects.com/en/1.1.x/) que sirve una simple respuesta JSON.
 
