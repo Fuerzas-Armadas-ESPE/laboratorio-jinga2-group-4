@@ -16,8 +16,8 @@ Esta es una aplicación de [Flask](https://flask.palletsprojects.com/en/1.1.x/) 
 - Flask
 
 ## 💁‍♀️ Cómo usar
-
+- Inicializar el entorno virtual venv
 - Instala los requisitos de Python `pip install -r requirements.txt`
-- Inicia el servidor para desarrollo `python3 main.py`
+- Inicia el servidor para desarrollo `python main.py`
 
 ----------------------------------------------------------------------
